@@ -1,0 +1,73 @@
+
+#grandeMomento{
+
+	background-image:url("http://localhost:5510/trabalho/img/geovanna-bg-home.jpg");
+	text-align: center;
+	height: 590px;
+	padding-top: 25%;
+}
+
+#grandeMomento h2
+{
+    font-size:5em;
+}
+#grandeMomento h3
+{
+    font-size:3em;
+}
+#grandeMomento h2, #grandeMomento h3{
+	font-family:After Midnite;
+}
+
+#grandeMomento h4
+{
+    font-family: Trajan Pro;
+}
+
+#apresentacao{
+	background-image: url("http://localhost:5510/trabalho/img/geovanna-bg-presentation.jpg");
+	text-align: center;
+	height: 544px;
+	padding-top: 15%;
+}
+
+#apresentacao h2
+{
+    font-family:Trajan Pro;
+    font-size: 2em;
+}
+#apresentacao h3
+{
+    font-family:
+#sobreNos{
+	background-image: 
+	height:960px;
+}
+#tiposServicos{
+	background-image: url("http://localhost:5510/trabalho/img/geovanna-bg-services.jpg");
+	height: 890px;
+}
+
+#depoimentos{
+	
+	height:1000px;
+}
+#entreContato{
+	background-image: url("http://localhost:5510/trabalho/img/geovanna-bg-contact.jpg");
+	height: 800px;
+}
+.metade{
+
+	width: 50%;
+
+}
+.botao{
+
+	vertical-align: middle;
+}
+
+.comFundo{
+
+	color: white; 
+	float:none;
+}
